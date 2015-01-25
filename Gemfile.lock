@@ -182,6 +182,7 @@ DEPENDENCIES
   jquery-rails
   less-rails
   pg
+  rack (= 1.6.0)
   rails (= 4.2.0)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
